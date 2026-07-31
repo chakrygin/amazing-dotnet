@@ -5,3 +5,4 @@ https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/
 https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/
 https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/
 https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/
+https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/
