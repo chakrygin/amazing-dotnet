@@ -1,12 +1,7 @@
 {
-  "DevBlogs / Visual Studio Blog": {
-    "timestamp": "2026-08-01T21:32:56.962Z",
-    "message": "Failed to parse html page. More than one post found.",
-    "counter": 5
-  },
   "KhalidAbuhakmeh": {
-    "timestamp": "2026-08-02T15:42:45.186Z",
+    "timestamp": "2026-08-02T19:59:08.536Z",
     "message": "Failed to parse html page. No posts found.",
-    "counter": 3
+    "counter": 4
   }
 }
