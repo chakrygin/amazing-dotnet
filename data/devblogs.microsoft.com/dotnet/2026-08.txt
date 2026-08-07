@@ -1,2 +1,3 @@
 https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/
+https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/
 https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/
