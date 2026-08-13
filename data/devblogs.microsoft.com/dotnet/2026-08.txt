@@ -3,4 +3,5 @@ https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-se
 https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/
 https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/
 https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/
+https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/
 https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/
