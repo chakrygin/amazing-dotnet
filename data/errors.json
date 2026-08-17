@@ -1,4 +1,9 @@
 {
+  "JetBrains / How-To's": {
+    "timestamp": "2026-08-17T17:01:11.153Z",
+    "message": "Request failed with status code 502",
+    "counter": 1
+  },
   "JetBrains / dotInsights": {
     "timestamp": "2026-08-13T06:04:07.378Z",
     "message": "Post is not valid: description is empty.",
