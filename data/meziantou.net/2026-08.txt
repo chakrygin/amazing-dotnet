@@ -1,2 +1,3 @@
 https://www.meziantou.net/adding-a-clone-method-to-a-csharp-record.htm
+https://www.meziantou.net/reproducible-builds-and-snapshot-testing-handling-file-paths-in-dotnet.htm
 https://www.meziantou.net/snapshot-testing-in-dotnet-with-meziantou-framework-snapshottesting.htm
