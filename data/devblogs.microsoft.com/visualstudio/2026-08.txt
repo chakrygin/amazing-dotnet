@@ -2,3 +2,4 @@ https://devblogs.microsoft.com/visualstudio/build-azure-skills-faster-with-cloud
 https://devblogs.microsoft.com/visualstudio/managing-git-submodules-without-leaving-the-ide/
 https://devblogs.microsoft.com/visualstudio/tell-your-model-when-to-think-harder/
 https://devblogs.microsoft.com/visualstudio/today-i-will-modernize-a-net-application/
+https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/
