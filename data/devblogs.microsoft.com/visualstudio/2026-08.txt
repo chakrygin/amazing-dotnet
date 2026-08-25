@@ -3,3 +3,4 @@ https://devblogs.microsoft.com/visualstudio/managing-git-submodules-without-leav
 https://devblogs.microsoft.com/visualstudio/tell-your-model-when-to-think-harder/
 https://devblogs.microsoft.com/visualstudio/today-i-will-modernize-a-net-application/
 https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/
+https://devblogs.microsoft.com/visualstudio/visual-studio-august-update-work-smarter-across-models-and-branches/
