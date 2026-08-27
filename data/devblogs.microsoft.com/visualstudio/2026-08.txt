@@ -5,3 +5,4 @@ https://devblogs.microsoft.com/visualstudio/the-visual-studio-debugger-agentic-w
 https://devblogs.microsoft.com/visualstudio/today-i-will-modernize-a-net-application/
 https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/
 https://devblogs.microsoft.com/visualstudio/visual-studio-august-update-work-smarter-across-models-and-branches/
+https://devblogs.microsoft.com/visualstudio/vslive-hq-content-sandiego-and-orlando-mentions/
