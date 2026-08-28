@@ -4,6 +4,7 @@ https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/
 https://devblogs.microsoft.com/dotnet/explore-csharp-15/
 https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/
 https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/
+https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/
 https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/
 https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/
 https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/
