@@ -1,8 +1,0 @@
-https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/
-https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/
-https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/
-https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/
-https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/
-https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/
-https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/
-https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/
