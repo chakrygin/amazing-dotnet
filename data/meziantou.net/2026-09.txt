@@ -1,1 +1,2 @@
 https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm
+https://www.meziantou.net/run-temporary-containers-in-dotnet-tests-with-meziantou-framework-temporaryconta.htm
